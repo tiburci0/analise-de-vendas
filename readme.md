@@ -5,6 +5,7 @@ Projeto de análise exploratória de um dataset fictício de vendas.
 
 ## 🔧 Ferramentas
 - Python
+- Jupyter Notebook
 
 ## 📁 Como usar
 1. Clone o repositório
