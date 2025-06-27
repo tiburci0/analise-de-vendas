@@ -1,0 +1,13 @@
+# 📊 Análise de Vendas com Python
+Projeto de análise exploratória de um dataset fictício de vendas.
+- Produto mais vendido
+- Visualizações com gráficos interativos
+
+## 🔧 Ferramentas
+- Python
+
+## 📁 Como usar
+1. Clone o repositório
+2. Instale as dependências:
+```bash
+pip install -r requirements.txt
