@@ -1,5 +1,6 @@
 # 📊 Análise de Vendas com Python
 Projeto de análise exploratória de um dataset fictício de vendas.
+- Total vendido por vendedor
 - Produto mais vendido
 - Visualizações com gráficos interativos
 
